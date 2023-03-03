@@ -1,6 +1,6 @@
 // Write your solution in this file!
 const employee = {};
-
+//updateEmployeeWithKeyAndValue
 function updateEmployeeWithKeyAndValue(object,key,value){
     return {...object,[key] : value, };
     }
